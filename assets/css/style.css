@@ -10,8 +10,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background: #ffffff;
-  color: #898989;
+  background: #A7a8a8;
+  color: #6c5a5a;
   font-family: "Poppins", helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -57,7 +57,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #999999;
+  color: #474646;
   line-height: 28px;
 }
 
@@ -564,7 +564,7 @@ p {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #880808;
 }
 
 #about .div-img-bg .about-img img {
