@@ -617,7 +617,7 @@ p {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #880808;
   line-height: 44px;
 }
 
@@ -631,11 +631,11 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid #880808;
 }
 
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: #880808;
 }
 
 /*--------------------------------------------------------------
@@ -670,7 +670,7 @@ p {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: #880808;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -713,12 +713,12 @@ p {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #b8a07e;
+  color: #880808;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover,
 #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #cab89f;
+  color: #943232;
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
@@ -751,11 +751,11 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid #880808;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: #880808;
 }
 
 .portfolio-details .portfolio-info {
@@ -842,7 +842,7 @@ p {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: #880808;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1104,7 +1104,7 @@ blockquote {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color: #880808;
   transition: all 0.5s ease-in-out 0s;
 }
 
