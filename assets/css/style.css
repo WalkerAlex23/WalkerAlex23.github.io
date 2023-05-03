@@ -104,9 +104,9 @@ p {
 
 .form-control {
   background-color: transparent;
-  border: 1px solid #999;
+  border: 1px solid #6c6c6c;
   border-radius: 0;
-  color: #999999;
+  color: #6c6c6c;
   font-size: 12px;
   font-weight: 500;
   height: 50px;
@@ -663,7 +663,7 @@ p {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #999999;
+  color: #6c6c6c;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
@@ -701,7 +701,7 @@ p {
 }
 
 #portfolio .portfolio-item .portfolio-info p {
-  color: #999;
+  color: #6c6c6c;
   font-size: 14px;
   margin: 0;
   padding: 0;
@@ -1048,7 +1048,7 @@ p {
 
 .entry-comments span a {
   font-size: 13px;
-  color: #999;
+  color: #6c6c6c;
 }
 
 .entry-comments-reply {
@@ -1095,7 +1095,7 @@ blockquote {
 
 #footer .socials-media ul li a {
   font-size: 24px;
-  color: #999;
+  color: #6c6c6c;
   letter-spacing: 0.1em;
   font-weight: 500;
   background: transparent;
