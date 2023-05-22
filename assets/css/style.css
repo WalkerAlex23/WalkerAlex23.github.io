@@ -450,8 +450,8 @@ p {
 --------------------------------------------------------------*/
 #hero {
   background: url("../img/Picture Website.png") repeat scroll center center/cover;
-  width: 300px;
-  height: auto;
+  width: 200px;
+  height: 200px;
 }
 
 #hero .hero-content {
