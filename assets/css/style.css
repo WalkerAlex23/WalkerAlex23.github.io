@@ -449,7 +449,7 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-  background: url("../img/Picture Website.png") repeat scroll center center/cover;
+  background: url("../img/Picture Website.png");
   height: 200px;
   background-position: center;
   background-repeat: no-repeat;
