@@ -825,8 +825,7 @@ p {
 }
 
 .journal-block .journal-info img {
-  max-width: 100%;
-  object-fit: contain;
+  height:auto;
 }
 
 .journal-block .journal-info .journal-txt {
