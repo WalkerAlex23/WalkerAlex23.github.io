@@ -452,6 +452,7 @@ p {
   background: url("../img/Picture Website.png") repeat scroll center center/cover;
   background-repeat: no-repeat;
   background-size: cover;
+  background-size: contain;
 }
 
 #hero .hero-content {
