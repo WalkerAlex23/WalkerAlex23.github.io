@@ -694,7 +694,9 @@ p {
   transition: all ease-in-out 0.3s;
   background: rgba(255, 255, 255, 0.9);
   padding: 15px;
-  height: auto; 
+  
+  max-width: 100px; 
+  max-height: 100px;
 }
 
 #portfolio .portfolio-item .portfolio-info h4 {
